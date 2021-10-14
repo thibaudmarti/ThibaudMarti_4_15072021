@@ -673,6 +673,10 @@ a {
     color: #575757!important;
 }
 
+.pc-b {
+    color: black!important;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -724,8 +728,12 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 28px;
     line-height: 1.4em;
+}
+
+.p-r {
+    position: relative;
 }
 
 h3 {
@@ -795,6 +803,18 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+}
+
+/* .tc-w {
+    color: rgb(255, 214, 180)!important;
+} */
+
+/* h2 .tc-w {
+    z-index: 5;
+} */
+
+.tfw-bold {
+    font-weight: bold;
 }
 
 .tc-black {
