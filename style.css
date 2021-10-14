@@ -836,6 +836,14 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.pad-tb {
+    padding: 2px 0;
+}
+
+.fs-up {
+    font-size: 1.7rem;
+}
+
 .ltc-white {
     color: #FFFFFF!important;
 }
