@@ -12,6 +12,11 @@ body {
     justify-content: center;
 }
 
+.align-c {
+    align-items: center;
+    flex-direction: column;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -823,7 +828,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
