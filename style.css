@@ -23,6 +23,20 @@ a:hover {
     cursor: pointer;
 }
 
+header a:focus {
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+
+section a:focus {
+    border: 2px solid black;
+}
+
+footer a:focus > span {
+    /* color: white; */
+    border: 2px solid white;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
